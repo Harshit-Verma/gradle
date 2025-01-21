@@ -1,0 +1,15 @@
+// dependencies {
+//     implementation 'org.apache.camel:camel-core:4.0.0'
+// }
+
+// application {
+//     mainClass = 'MyCamelApp'
+// }
+
+
+// Root build.gradle
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
